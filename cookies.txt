@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+producttesting.uk.com	TRUE	/	FALSE	1999999999	ci_session_id	d256qq4r8oua6lg0n4fpjjmsv0
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	59998a73-f2101-e1b88-2a2bc
+
